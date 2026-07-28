@@ -1,0 +1,5 @@
+*.db
+*.pkl
+*.joblib
+__pycache__/
+.vscode/
